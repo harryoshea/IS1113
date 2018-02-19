@@ -28,10 +28,8 @@ session_start();
             
             <?php
             // Set session variables
-            $_SESSION["total"] = $_POST["total"] . " . ";
-            
-        </div>
-        
-        <script type="text/javascript" src="ebus2_validator.js"></script>
+            $_SESSION["total"] = $_POST["total"];
+            ?>
+    
     </body>
 </html>

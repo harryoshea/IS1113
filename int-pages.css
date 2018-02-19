@@ -1,16 +1,33 @@
 #section1{
-   background:url("http://cdn.onlyinyourstate.com/wp-content/uploads/2016/02/ANTHONYQUINTANONew-York-City-Sunset-September-14-2014-15242798832-700x467.jpg");
+
+    background:url("https://c1.staticflickr.com/5/4522/38535116642_d74ce2d523_b.jpg");
+
+   
+
 }
+
+ 
 
 #section2{
-    background:url("https://brightcove04pmdo-a.akamaihd.net/5104226627001/5104226627001_5575839228001_5541832440001-vs.jpg?pubId=5104226627001&videoId=5541832440001");
+
+    background:url("http://i2.wp.com/www.pbs.org/wgbh/frontline/wp-content/uploads/2016/11/FL_DividedStatesOfAmerica.jpg?resize=1200%2C630");
+
 }
+
+ 
 
 #section3{
-    background:url("http://cdn.onlyinyourstate.com/wp-content/uploads/2016/02/ANTHONYQUINTANONew-York-City-Sunset-September-14-2014-15242798832-700x467.jpg");
+
+    background:url("http://wallpaperfast.com/wp-content/uploads/2013/06/Ireland-view-from-newgrange-Desktop-Wallpaper.jpg");
+
 }
 
+ 
+
 .section{
+
     text-align: center;
+
     color: white;
+
 }
