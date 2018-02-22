@@ -1,15 +1,20 @@
 #section1{
     background:url("https://kids.nationalgeographic.com/content/dam/kids/photos/Countries/Q-Z/spain-madrid.adapt.945.1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 
 #section2{
     background:url("https://www.celebritycruises.co.uk/getmedia/5dafc2b1-8fec-4e84-b3e3-82f55c0cc8ca/country-japan-mt-fuji-1.jpg?width=640&height=350&ext=.jpg");
-}
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
 
 #section3{
     background:url("http://cdn-photos.vanfun.com/newhouse/2018/02/13/bacc848a-2d28-4489-80ed-40c492aac1bb.jpg");
-}
+    background-repeat: no-repeat;
+    background-size: cover;}
 
 .section{
     text-align: center;
