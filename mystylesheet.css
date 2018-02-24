@@ -1,5 +1,6 @@
 .mainheading{
     text-align: center;
+    font-size: xx-large
 }
 
   body {
@@ -26,17 +27,23 @@ li a {
     display: block;
     color: white;
     text-align: center;
-    padding: 13px 15px;
+    padding: 7px 7px;
     text-decoration: none;
+    font-size: x-large
 }
 
 
 ul {
-    border: 1px solid #e7e7e7;
+    border: 6px solid #e7e7e7;
     background-color: #f3f3f3;
 }
 
 li a {
-    color: #666;
+    color: black;
+}
+
+p {
+    text-align: center;
+    font-size: larger;
 }
 
