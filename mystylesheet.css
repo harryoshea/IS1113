@@ -1,10 +1,11 @@
 .mainheading{
     text-align: center;
-    font-size: xx-large
+    font-size: xx-large;
+    color: white;
 }
 
   body {
-    background-color: lightblue;
+    background-color: white;
 }
 
  body {
@@ -16,7 +17,7 @@
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: #3;
 }
 
 li {
@@ -25,7 +26,7 @@ li {
 
 li a {
     display: block;
-    color: white;
+    color: black;
     text-align: center;
     padding: 7px 7px;
     text-decoration: none;
@@ -33,13 +34,10 @@ li a {
 }
 
 
-ul {
-    border: 6px solid #e7e7e7;
-    background-color: #f3f3f3;
-}
+
 
 li a {
-    color: black;
+    color: white;
 }
 
 p {
