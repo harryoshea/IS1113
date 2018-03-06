@@ -26,7 +26,7 @@ li {
 
 li a {
     display: block;
-    color: black;
+    color: white;
     text-align: center;
     padding: 7px 7px;
     text-decoration: none;
@@ -45,3 +45,11 @@ p {
     font-size: larger;
 }
 
+.dogo img{
+position: absolute;
+top: 55%;
+left: 30%;
+height:40%;
+width: 40%;
+    
+}
