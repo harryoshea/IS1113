@@ -3,23 +3,22 @@
     <head>
         <title>Select Product</title>
         
-       <link rel="stylesheet"  type="text/css" />
+      
         
         <!--jQuery-->
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-        <script type="text/javascript" src="/ebusiness/cost_calc.js"></script>
+        <script type="text/javascript" src="cost_calc.js"></script>
   
    
       <style>
       .container{
     display:inline;
 }
-.container1{
-     top:0%
-  width:100%;
-  height:250%;
-  text-align: center;
+
+body{
+   text-align:center;
 }
+
 /* Centered text */
 .centered {
     position: absolute;
@@ -33,8 +32,7 @@
     </head>
     
     <body style="background-color: lightblue;">
-        <div class="container1">
-            
+        
        
        
        
@@ -127,4 +125,3 @@
         </div>
     </body>
 </html>
-         

@@ -20,13 +20,11 @@ $email =$_REQUEST['email'];
       <style>
       .container{
     display:inline;
+    
+    body{
+   text-align:center;
 }
-.container1{
-     top:0%;
-  width:100%;
-  height:250%;
-  text-align: center;
-}
+
 /* Centered text */
 .centered {
     position: absolute;
@@ -45,10 +43,7 @@ $email =$_REQUEST['email'];
       color:black;
   }
   </style>
-   <div class="container1">
-            <img src="https://www.surfertoday.com/images/stories/breakingwave.jpg" alt="wave" width="1440" height="250" >
-           <div class="centered"><h1>Wave crest Communications</h1></div>
-       
+   
         
         <Stong><h1>Receipt</h1></Stong>
         
@@ -65,8 +60,8 @@ $email =$_REQUEST['email'];
     
       
         </div>
-        <div class="container2">
-            <a href=" ../homepage.html">Is1113117326096</a>
+        
+            <a href=" ../homepage.html">Return to Homepage</a>
         </div>
     </body>
     </html>
