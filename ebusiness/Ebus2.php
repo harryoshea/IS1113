@@ -50,7 +50,7 @@ body{
                     <label for = "email">
                         <strong> Email:</strong>
                         <br>
-                        <input type = "email" id ="email" name="email"/>
+                        <input type = 'text' id ="email" name="email"/>
                     </label>
                     <br><br>
                     

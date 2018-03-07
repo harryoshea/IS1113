@@ -7,10 +7,11 @@
         
         <!--jQuery-->
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-        <script type="text/javascript" src="cost_calc.js"></script>
+        <script type="text/javascript" src="cost_cal.js"></script>
   
    
-      <style>
+ <style>
+ 
       .container{
     display:inline;
 }
@@ -20,13 +21,13 @@ body{
 }
 
 /* Centered text */
+
 .centered {
     position: absolute;
     top: 20%;
     left: 50%;
     transform: translate(-50%, -50%);
-   
-  }
+   }
  
 </style>
     </head>
